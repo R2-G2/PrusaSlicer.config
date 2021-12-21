@@ -1,4 +1,4 @@
-# PrusaSlicer.config: my settings for @prusa3d's / PrusaSlicer
+# PrusaSlicer.config: my settings for @prusa3d / PrusaSlicer
 
 ## @todo
 
