@@ -35,7 +35,7 @@ sure to back up or copy your current settings to the repository.
 ### UN*X
 
 Life is good if you are running a **UN\*X** (sub)system: just execute the [setup](https://github.com/R2-G2/PrusaSlicer.config/blob/master/setup.sh)
-**Shell** script provided in the repositorys root directory.
+**Shell** script provided in root directory of the the repository.
 
 ```shell
 git clone https://github.com/R2-G2/PrusaSlicer.config.git
@@ -50,6 +50,13 @@ git clone git@github.com:R2-G2/PrusaSlicer.config.git
 ```shell
 cd PrusaSlicer.config
 ./setup.sh
+```
+
+To reduce some possible minor issues with changed profiles (spaces after empty assignments; settings IDs), I run the
+following to normalize them:
+
+```shell
+./normalize.sh
 ```
 
 ## Problems?
