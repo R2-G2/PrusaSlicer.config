@@ -4,9 +4,9 @@
 
 ### My 3D printing setup
 
-- **Creality Ender-3Xs Pro** *[heavily upgraded]*
-- **Artillery Sidewinder X2** *[slighty upgraded]*
-- **Anycubic Photon Mono** *[stock]*
+- **Creality Ender-3Xs Pro** *[strongly upgraded]*
+- **Artillery Sidewinder X2** *[slighty modded]*
+- **Anycubic Photon Mono** *[simply enhanced]*
 - **Anycubic Wash & Cure Machine 2.0** *[stock]*
 - **Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**
 
