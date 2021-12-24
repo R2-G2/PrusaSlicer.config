@@ -52,7 +52,7 @@ cd PrusaSlicer.config
 ./setup.sh
 ```
 
-To reduce some possible minor issues with changed profiles (spaces after empty assignments; settings IDs), I run the
+To reduce some possible minor issues with changed profiles (spaces after empty assignments; setting IDs), I run the
 following to normalize them:
 
 ```shell
