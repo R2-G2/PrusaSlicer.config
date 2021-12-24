@@ -1,8 +1,9 @@
 #!/bin/sh
 
-cd "$(dirname "$(readlink -f "${0}";)";)/";
-sed -i 's/=$/= /' printer/my*;
+dir="$(dirname "${0}";)";
 
-find sla_*/*.ini -type f ! -iname "Universal*" | while read file; do
+sed -i 's/=$/= /' "${dir}/"printer/my*.ini;
+
+find "${dir}/"sla_*/*.ini -type f ! -iname "Universal*" | while read file; do
     sed -Ei "s/=$/= /; s/((material|print)_settings_id\ =).*/\1\ $(basename "${file}" .ini;)/;" "${file}";
 done;

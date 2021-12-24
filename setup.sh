@@ -1,10 +1,11 @@
 #!/bin/sh
 
-dir="${HOME}/.config/PrusaSlicer";
+dir="${HOME}/".config/PrusaSlicer;
 
-cd "$(dirname "$(readlink -f "${0}";)";)/";
+mkdir -vp "${dir}" || exit 1;
+cd "$(dirname "${0}";)/";
 
-for setting in $(ls -d */ | cut -d"/" -f1;); do
+for setting in */; do
     cp -vr "${dir}/${setting}" . && rm -vrf "${dir}/${setting}";
-    ln -vs "${PWD}/${setting}" "${dir}";
+    ln -vs "${PWD}/${setting%/}" "${dir}";
 done;
