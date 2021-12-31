@@ -37,17 +37,17 @@ sure to back up or copy your current settings to the repository.
 Life is good if you are running a **UN\*X** (sub)system: just execute the [setup](https://github.com/R2-G2/PrusaSlicer.config/blob/master/setup.sh)
 **Shell** script provided in root directory of the the repository.
 
-```shell
+```sh
 git clone https://github.com/R2-G2/PrusaSlicer.config.git
 ```
 
 or
 
-```shell
+```sh
 git clone git@github.com:R2-G2/PrusaSlicer.config.git
 ```
 
-```shell
+```sh
 cd PrusaSlicer.config
 ./setup.sh
 ```
@@ -55,7 +55,7 @@ cd PrusaSlicer.config
 To reduce some possible minor issues with changed profiles (spaces after empty assignments; setting IDs), I run the
 following to normalize them:
 
-```shell
+```sh
 ./normalize.sh
 ```
 
