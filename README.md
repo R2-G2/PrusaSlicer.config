@@ -1,12 +1,12 @@
-# PrusaSlicer.config: my settings for [@prusa3d](https://github.com/prusa3d) / [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+# [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer).config: my 3D printing settings
 
 ## Preamble
 
 ### My 3D printing setup
 
-- **Creality Ender-3Xs Pro** *[heavily upgraded]*
-- **Artillery Sidewinder X2** *[slighty upgraded]*
-- **Anycubic Photon Mono** *[stock]*
+- **Creality Ender-3Xs Pro** *[strongly upgraded]*
+- **Artillery Sidewinder X2** *[slighty modded]*
+- **Anycubic Photon Mono** *[simply enhanced]*
 - **Anycubic Wash & Cure Machine 2.0** *[stock]*
 - **Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**
 
@@ -17,47 +17,27 @@
 
 ## Structure
 
-- **printer/**: Printer Settings
-- **sla_material/**: SLA Material Settings
-- **sla_print/**: SLA Print Settings
+- **ini/**: my configuration folder
+    - **printer/**: Printer Settings
+    - **sla_material/**: SLA Material Settings
+    - **sla_print/**: SLA Print Settings
 
-## Setup
+## Usage
 
 ### Universal
 
-First of all, somehow transfer **PrusaSlicer.config** to your filesystem.
+First of all, somehow transfer **PrusaSlicer.config** to your system (clone **Git**, download Zip, copy & paste ...).
 
-Then the easiest way is to copy the folders named under [Structure](#structure) to the PrusaSlicer configuration folder.
+Then the easiest way is to copy the settings directories named under [Structure](#structure) to the **PrusaSlicer**
+configuration folder.
 
-If you (sym)link them, you will be able to keep your **Git** repository up to date without any hassle. Before that, make
-sure to back up or copy your current settings to the repository.
+If you (sym)link them, you will be able to keep a **Git** repository up to date without any hassle. Before that, make
+sure to back up or copy your current settings to that repository.
 
 ### UN*X
 
-Life is good if you are running a **UN\*X** (sub)system: just execute the [setup](https://github.com/R2-G2/PrusaSlicer.config/blob/master/setup.sh)
-**Shell** script provided in root directory of the the repository.
-
-```shell
-git clone https://github.com/R2-G2/PrusaSlicer.config.git
-```
-
-or
-
-```shell
-git clone git@github.com:R2-G2/PrusaSlicer.config.git
-```
-
-```shell
-cd PrusaSlicer.config
-./setup.sh
-```
-
-To reduce some possible minor issues with changed profiles (spaces after empty assignments; setting IDs), I run the
-following to normalize them:
-
-```shell
-./normalize.sh
-```
+Life is good if you are running a **UN\*X** (sub)system: just try out
+**[PrusaSlicerConfig](https://github.com/R2-G2/PrusaSlicerConfig)**!
 
 ## Problems?
 
