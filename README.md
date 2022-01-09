@@ -26,9 +26,9 @@
 
 ### Universal
 
-First of all, somehow transfer **PrusaSlicer.config** to your filesystem (clone Git, download Zip, copy & paste ...).
+First of all, somehow transfer **PrusaSlicer.config** to your system (clone **Git**, download Zip, copy & paste ...).
 
-Then the easiest way is to copy the settings directories named under [Structure](#structure) to the PrusaSlicer
+Then the easiest way is to copy the settings directories named under [Structure](#structure) to the **PrusaSlicer**
 configuration folder.
 
 If you (sym)link them, you will be able to keep a **Git** repository up to date without any hassle. Before that, make
