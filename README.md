@@ -26,7 +26,7 @@
 
 ### Universal
 
-First of all, somehow transfer **PrusaSlicer.config** to your system (clone **Git**, download Zip, copy & paste ...).
+First of all, somehow transfer **PrusaSlicer.config** to your system (download ZIP, grab release, *clone* repository).
 
 Then the easiest way is to copy the settings directories named under [Structure](#structure) to your **PrusaSlicer**
 configuration folder.
