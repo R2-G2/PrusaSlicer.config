@@ -4,10 +4,9 @@
 
 ### My 3D printing setup
 
-- **Creality Ender-3Xs Pro** *[strongly upgraded]*
-- **Artillery Sidewinder X2** *[slighty modded]*
-- **Anycubic Photon Mono** *[simply enhanced]*
-- **Anycubic Wash & Cure Machine 2.0** *[stock]*
+- **Creality Ender-3Xs Pro** *[strongly upgraded]* w/ **Sunlu FilaDryer S1** *[stock]*
+- **Artillery Sidewinder X2** *[slighty modded]* w/ **Sunlu FilaDryer S1** *[stock]*
+- **Anycubic Photon Mono** *[simply enhanced]* w/ **Anycubic Wash & Cure Machine 2.0** *[stock]*
 - **Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**
 
 ### Find me on
