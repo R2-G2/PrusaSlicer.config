@@ -4,10 +4,9 @@
 
 ### My 3D printing setup
 
-- **Creality Ender-3Xs Pro** *[strongly upgraded]*
-- **Artillery Sidewinder X2** *[slighty modded]*
-- **Anycubic Photon Mono** *[simply enhanced]*
-- **Anycubic Wash & Cure Machine 2.0** *[stock]*
+- **Creality Ender-3Xs Pro** *[strongly upgraded]* w/ **Sunlu FilaDryer S1** *[stock]*
+- **Artillery Sidewinder X2** *[slighty modded]* w/ **Sunlu FilaDryer S1** *[stock]*
+- **Anycubic Photon Mono** *[simply enhanced]* w/ **Anycubic Wash & Cure Machine 2.0** *[stock]*
 - **Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**
 
 ### Find me on
@@ -26,7 +25,7 @@
 
 ### Universal
 
-First of all, somehow transfer **PrusaSlicer.config** to your system (clone **Git**, download Zip, copy & paste ...).
+First of all, somehow transfer **PrusaSlicer.config** to your system (download ZIP, grab release, *clone* repository).
 
 Then the easiest way is to copy the settings directories named under [Structure](#structure) to your **PrusaSlicer**
 configuration folder.
@@ -37,7 +36,7 @@ sure to back up or copy your current settings to that repository.
 ### UN*X
 
 Life is good if you are running a **UN\*X** (sub)system: just try out
-**[PrusaSlicerConfig](https://github.com/R2-G2/PrusaSlicerConfig)**!
+**[PrusaSlicerConfig](https://gist.github.com/R2-G2/386d51e3c0699f12111d3f6a14ef862a#file-prusaslicerconfig-sh)**!
 
 ## Problems?
 
