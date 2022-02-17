@@ -36,7 +36,7 @@ sure to back up or copy your current settings to that repository.
 ### UN*X
 
 Life is good if you are running a **UN\*X** (sub)system: just try out
-**[PrusaSlicerConfig](https://github.com/R2-G2/PrusaSlicerConfig)**!
+**[PrusaSlicerConfig](https://gist.github.com/R2-G2/386d51e3c0699f12111d3f6a14ef862a#file-prusaslicerconfig-sh)**!
 
 ## Problems?
 
