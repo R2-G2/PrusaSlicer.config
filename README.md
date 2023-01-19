@@ -4,7 +4,7 @@
 
 ### My 3D printing setup
 
-- **Flashforge Adventurer 4** *[stock]* w/ **Sunlu FilaDryer S2** *[stock]*
+- **Flashforge Adventurer 4** *[seamingly stock]* w/ **Sunlu FilaDryer S2** *[stock]*
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]* w/ **Sunlu FilaDryer S1** *[stock]*
 - **Artillery Sidewinder X2** *[slighty modded, WIP]* w/ **Sunlu FilaDryer S1** *[stock]*
 - **Anycubic Photon Mono** *[simply enhanced]* w/ **Anycubic Wash & Cure Machine 2.0** *[stock]*
@@ -17,7 +17,7 @@
 
 ## Structure
 
-- **ini/**: my configuration folder
+- **cfg/**: my configuration folder
     - **printer/**: Printer Settings
     - **sla_material/**: SLA Material Settings
     - **sla_print/**: SLA Print Settings
