@@ -6,28 +6,29 @@
 
 #### Printer
 
-- **Flashforge Adventurer 4** *[seamingly stock]*
-    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
-    - standalone
-    - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
-    - w/ **Sunlu FilaDryer S1** *[stock]*
-    - klipperified
-    - fed by **PrusaSlicer[.config](https://github.com/R2-G2/PrusaSlicer.config)**
-- **Artillery Sidewinder X2** *[slighty modded, WIP]*
-    - w/ **Sunlu FilaDryer S1** *[stock]*
-    - klipperified
-    - fed by **PrusaSlicer[.config](https://github.com/R2-G2/PrusaSlicer.config)**
+    - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
+    - ~~Klipper~~
+    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
+- **Voron 2.4 350 RevC** *[suspiciously stock, WIP]*
+    - ~~**Raspberry Pi 3 Model B+**~~
+    - ~~Klipper~~
+    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
+- **Creality K1** *[seemingly stock]*
+    - proprietary Klipper
+    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
 - **Anycubic Photon Mono** *[simply enhanced]*
+    - proprietary
+    - fed by **[UVtools](https://github.com/sn4k3/UVtools)**
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-    - standalone
-    - fed by **PrusaSlicer[.config](https://github.com/R2-G2/PrusaSlicer.config)** &
-        **[UVtools](https://github.com/sn4k3/UVtools)**
 
-#### Klipper
+#### Hall of ~~filament~~ fame
 
-- **Raspberry Pi 3 Model B+**
-    - w/ **Raspberry Pi Touch Display**
+- **Flashforge Adventurer 4** *[seemingly stock]*
+    - proprietary
+    - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
+- **Artillery Sidewinder X2** *[slighty modded]*
+    - proprietary Marlin
 
 ### Find me on
 
@@ -43,7 +44,6 @@
     - **printer/**: Printer Settings
     - **sla_material/**: SLA Material Settings
     - **sla_print/**: SLA Print Settings
-    - **vendor/**: Vendor Settings
 
 ## Usage
 
