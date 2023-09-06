@@ -6,29 +6,29 @@
 
 #### Printer
 
-- **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
-    - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
-    - ~~Klipper~~
-    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
-- **Voron 2.4 350 RevC** *[suspiciously stock, WIP]*
-    - ~~**Raspberry Pi 3 Model B+**~~
-    - ~~Klipper~~
-    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
-- **Creality K1** *[seemingly stock]*
-    - proprietary Klipper
-    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
 - **Anycubic Photon Mono** *[simply enhanced]*
     - proprietary
     - fed by **[UVtools](https://github.com/sn4k3/UVtools)**
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
+- **Creality K1** *[seemingly stock]*
+    - proprietary Klipper
+    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
+- **Voron 2.4 350 RevC** *[suspiciously stock, WIP]*
+    - ~~**Raspberry Pi 3 Model B+**~~
+    - ~~Klipper~~
+    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
+- **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
+    - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
+    - ~~Klipper~~
+    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
 
 #### Hall of ~~filament~~ fame
 
+- **Artillery Sidewinder X2** *[slighty modded]*
+    - proprietary Marlin
 - **Flashforge Adventurer 4** *[seemingly stock]*
     - proprietary
     - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
-- **Artillery Sidewinder X2** *[slighty modded]*
-    - proprietary Marlin
 
 ### Find me on
 
