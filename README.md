@@ -38,9 +38,9 @@
 ## Structure
 
 - **cfg/**: my configuration folder
-    - **filament/**: Filament Settings *[currently empty & untracked]*
+    - **filament/**: Filament Settings
     - **physical_printer/**: Physical Printer Settings *[ignored]*
-    - **print/**: Print Settings *[currently empty & untracked]*
+    - **print/**: Print Settings
     - **printer/**: Printer Settings
     - **sla_material/**: SLA Material Settings
     - **sla_print/**: SLA Print Settings
