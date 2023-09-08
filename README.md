@@ -46,6 +46,7 @@
     - **sla_print/**: SLA Print Settings
 - **res/**: configuration resources from other slicer softwares
     - **Creality Print/**: K1 & Ender-3Xs Pro
+    - **UVtools/**: Anycubic Photon Mono
 
 ## Usage
 
