@@ -12,7 +12,7 @@
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
 - **Creality K1** *[seemingly stock]*
     - proprietary Klipper
-    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
+    - w/ **Sunlu FilaDryer S2** *[seriously stock]*
 - **Voron 2.4 350 RevC** *[suspiciously stock, WIP]*
     - ~~**Raspberry Pi 3 Model B+**~~
     - ~~Klipper~~
