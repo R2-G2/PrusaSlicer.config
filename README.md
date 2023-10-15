@@ -8,7 +8,6 @@
 
 - **Anycubic Photon Mono** *[simply enhanced]*
     - proprietary
-    - fed by **[UVtools](https://github.com/sn4k3/UVtools)**
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
 - **Creality K1** *[seemingly stock]*
     - proprietary Klipper
@@ -33,7 +32,6 @@
 ### Find me on
 
 - [Thingiverse](https://www.thingiverse.com/r2g2de)
-- ~~[3D-Druck-Community](https://www.3d-druck-community.de/member.php?action=profile&uid=16354)~~
 - [GitHub](https://github.com/R2-G2)
 
 ## Structure
