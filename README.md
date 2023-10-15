@@ -6,44 +6,47 @@
 
 #### Printer
 
-- **Flashforge Adventurer 4** *[seamingly stock]*
-    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
-    - standalone
-    - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
-- **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
-    - w/ **Sunlu FilaDryer S1** *[stock]*
-    - klipperified
-    - fed by **PrusaSlicer[.config](https://github.com/R2-G2/PrusaSlicer.config)**
-- **Artillery Sidewinder X2** *[slighty modded, WIP]*
-    - w/ **Sunlu FilaDryer S1** *[stock]*
-    - klipperified
-    - fed by **PrusaSlicer[.config](https://github.com/R2-G2/PrusaSlicer.config)**
 - **Anycubic Photon Mono** *[simply enhanced]*
+    - proprietary
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-    - standalone
-    - fed by **PrusaSlicer[.config](https://github.com/R2-G2/PrusaSlicer.config)** &
-        **[UVtools](https://github.com/sn4k3/UVtools)**
+- **Creality K1** *[seemingly stock]*
+    - proprietary Klipper
+    - w/ **SUNLU FilaDryer S2** *[seriously stock]*
+- **VORON Design Voron 2.4 350 RevC by LDO Motors** *[suspiciously stock, WIP]*
+    - ~~**Raspberry Pi 3 Model B+**~~
+    - ~~Klipper~~
+    - w/ **SUNLU FilaDryer S1** *[seriously stock]*
+- **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
+    - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
+    - ~~Klipper~~
+    - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 
-#### Klipper
+#### Hall of ~~filament~~ fame
 
-- **Raspberry Pi 3 Model B+**
-    - w/ **Raspberry Pi Touch Display**
+- **Artillery Sidewinder X2** *[slighty modded]*
+    - proprietary Marlin
+- **Flashforge Adventurer 4** *[seemingly stock]*
+    - proprietary
+    - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
 
 ### Find me on
 
 - [Thingiverse](https://www.thingiverse.com/r2g2de)
-- [3D-Druck-Community](https://www.3d-druck-community.de/member.php?action=profile&uid=16354)
+- [GitHub](https://github.com/R2-G2)
 
 ## Structure
 
 - **cfg/**: my configuration folder
-    - **filament/**: Filament Settings *[currently empty & untracked]*
+    - **filament/**: Filament Settings
     - **physical_printer/**: Physical Printer Settings *[ignored]*
-    - **print/**: Print Settings *[currently empty & untracked]*
+    - **print/**: Print Settings
     - **printer/**: Printer Settings
     - **sla_material/**: SLA Material Settings
     - **sla_print/**: SLA Print Settings
-    - **vendor/**: Vendor Settings
+- **res/**: configuration resources from (other) slicer softwares
+    - **Creality Print/**: K1 & Ender-3Xs Pro
+    - **PrusaSlicer/**: Anycubic Photon Mono & Creality K1
+    - **UVtools/**: Anycubic Photon Mono
 
 ## Usage
 
