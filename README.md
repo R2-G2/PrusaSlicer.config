@@ -12,15 +12,15 @@
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
 - **Creality K1** *[seemingly stock]*
     - proprietary Klipper
-    - w/ **Sunlu FilaDryer S2** *[simply enhanced]*
-- **Voron 2.4 350 RevC** *[suspiciously stock, WIP]*
+    - w/ **SUNLU FilaDryer S2** *[seriously stock]*
+- **VORON Design Voron 2.4 350 RevC by LDO Motors** *[suspiciously stock, WIP]*
     - ~~**Raspberry Pi 3 Model B+**~~
     - ~~Klipper~~
-    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
+    - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
-    - w/ **Sunlu FilaDryer S1** *[seriously stock]*
+    - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 
 #### Hall of ~~filament~~ fame
 
@@ -33,7 +33,8 @@
 ### Find me on
 
 - [Thingiverse](https://www.thingiverse.com/r2g2de)
-- [3D-Druck-Community](https://www.3d-druck-community.de/member.php?action=profile&uid=16354)
+- ~~[3D-Druck-Community](https://www.3d-druck-community.de/member.php?action=profile&uid=16354)~~
+- [GitHub](https://github.com/R2-G2)
 
 ## Structure
 
