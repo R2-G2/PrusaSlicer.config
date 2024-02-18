@@ -32,7 +32,7 @@
 ### Find me on
 
 - [Thingiverse](https://www.thingiverse.com/r2g2de)
-- [GitHub](https://github.com/R2-G2)
+- [Printables.com](https://www.printables.com/@R2G2DE_1756822)
 
 ## Structure
 
@@ -45,7 +45,7 @@
     - **sla_print/**: SLA Print Settings
 - **res/**: configuration resources from (other) slicer softwares
     - **Creality Print/**: K1 & Ender-3Xs Pro
-    - **PrusaSlicer/**: Anycubic Photon Mono & Creality K1
+    - **PrusaSlicer/**: Anycubic Photon Mono, VORON Design Voron 2.4 350, Creality Ender-3Xs Pro
     - **UVtools/**: Anycubic Photon Mono
 
 ## Usage
