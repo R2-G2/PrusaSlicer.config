@@ -9,7 +9,7 @@
 - **Anycubic Photon Mono** *[simply enhanced]*
     - proprietary
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-- **Creality K1** *[seemingly stock]*
+- **Creality K1** *[simply enhanced]*
     - proprietary Klipper
     - w/ **SUNLU FilaDryer S2** *[seriously stock]*
 - **VORON Design Voron 2.4 350 RevC by LDO Motors** *[suspiciously stock, WIP]*
@@ -20,6 +20,7 @@
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
+- **Original Prusa MK4** *[simply enhanced]*
 
 #### Hall of ~~filament~~ fame
 
