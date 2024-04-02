@@ -9,7 +9,7 @@
 - **Anycubic Photon Mono** *[simply enhanced]*
     - proprietary
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-- **Creality K1** *[seemingly stock]*
+- **Creality K1** *[simply enhanced]*
     - proprietary Klipper
     - w/ **SUNLU FilaDryer S2** *[seriously stock]*
 - **VORON Design Voron 2.4 350 RevC by LDO Motors** *[suspiciously stock, WIP]*
@@ -20,6 +20,7 @@
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
+- **Original Prusa MK4** *[simply enhanced]*
 
 #### Hall of ~~filament~~ fame
 
@@ -31,8 +32,8 @@
 
 ### Find me on
 
+- [Printables.com](https://www.printables.com/@R2G2de)
 - [Thingiverse](https://www.thingiverse.com/r2g2de)
-- [Printables.com](https://www.printables.com/@R2G2DE_1756822)
 
 ## Structure
 
@@ -64,6 +65,11 @@ sure to back up or copy your current settings to that repository.
 
 Life is good if you are running a **UN\*X** (sub)system: just try out
 **[PrusaSlicerConfig](https://github.com/R2-G2/PrusaSlicerConfig)**!
+
+## Kudos
+
+Specials thanks to [Henlor](https://www.printables.com/@Henlor) for
+[some build plate models and textures](https://www.printables.com/model/537623).
 
 ## Problems?
 
