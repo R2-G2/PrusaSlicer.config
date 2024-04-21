@@ -46,7 +46,7 @@
     - **sla_print/**: SLA Print Settings
 - **res/**: configuration resources from (other) slicer softwares
     - **Creality Print/**: K1 & Ender-3Xs Pro
-    - **PrusaSlicer/**: Anycubic Photon Mono, VORON Design Voron 2.4 350, Creality Ender-3Xs Pro
+    - **PrusaSlicer/**: Anycubic Photon Mono, VORON Design Voron 2.4 350, Creality Ender-3Xs Pro, Original Prusa MK4
     - **UVtools/**: Anycubic Photon Mono
 
 ## Usage
