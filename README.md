@@ -4,26 +4,29 @@
 
 ### My workshop setup
 
-#### Printer
+#### Printers
 
 - **Anycubic Photon Mono** *[simply enhanced]*
     - proprietary
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-- **Creality K1** *[simply enhanced]*
-    - proprietary Klipper
-    - w/ **SUNLU FilaDryer S2** *[seriously stock]*
-- **VORON Design Voron 2.4 350 RevC by LDO Motors** *[suspiciously stock, WIP]*
+- **VORON Design Voron 2.4R2 350** *[suspiciously stock, RevC, WIP]*
+    - sourced by *LDO Motors*
     - ~~**Raspberry Pi 3 Model B+**~~
     - ~~Klipper~~
-    - w/ **SUNLU FilaDryer S1** *[seriously stock]*
+    - w/ **SUNLU FilaDryer S2** *[seriously stock]*
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
-- **Original Prusa MK4** *[simply enhanced]*
+- **Original Prusa MK4S** *[simply enhanced]* & **Original Prusa MMU3** *[seriously stock]*
+    - kit
+    - proprietary
+    - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 
 #### Hall of ~~filament~~ fame
 
+- **Creality K1** *[simply enhanced]*
+    - proprietary Klipper
 - **Artillery Sidewinder X2** *[slighty modded]*
     - proprietary Marlin
 - **Flashforge Adventurer 4** *[seemingly stock]*
@@ -38,16 +41,19 @@
 ## Structure
 
 - **cfg/**: my configuration folder
-    - **filament/**: Filament Settings
-    - **physical_printer/**: Physical Printer Settings *[ignored]*
-    - **print/**: Print Settings
-    - **printer/**: Printer Settings
-    - **sla_material/**: SLA Material Settings
-    - **sla_print/**: SLA Print Settings
+    - **filament/**: filaments
+    - **physical_printer/**: machines *[ignored]*
+    - **print/**: print settings
+    - **printer/**: printers
+    - **sla_material/**: SLA materials
+    - **sla_print/**: SLA print settings
+- **doc/**: [Notes](./doc/README.md)
+    - **filament/**: [Filaments](./doc/filament/README.md)
+    - **printer/**: [Printers](./doc/printer/README.md)
 - **res/**: configuration resources from (other) slicer softwares
-    - **Creality Print/**: K1 & Ender-3Xs Pro
-    - **PrusaSlicer/**: Anycubic Photon Mono, VORON Design Voron 2.4 350, Creality Ender-3Xs Pro, Original Prusa MK4
-    - **UVtools/**: Anycubic Photon Mono
+    - **Creality Print/**: Ender-3Xs Pro
+    - **PrusaSlicer/**: Photon Mono, Voron 2.4R2 350, Ender-3Xs Pro, MK4S & MMU3
+    - **UVtools/**: Photon Mono
 
 ## Usage
 
@@ -65,11 +71,6 @@ sure to back up or copy your current settings to that repository.
 
 Life is good if you are running a **UN\*X** (sub)system: just try out
 **[PrusaSlicerConfig](https://github.com/R2-G2/PrusaSlicerConfig)**!
-
-## Kudos
-
-Specials thanks to [Henlor](https://www.printables.com/@Henlor) for
-[some build plate models and textures](https://www.printables.com/model/537623).
 
 ## Problems?
 
