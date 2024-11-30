@@ -4,7 +4,11 @@
 
 ### Colors / flavors
 
+- **BLACK**: solid black, `#000000`
+- **BLUE**: solid blue, `#1C71D8`
 - **ORANGE**: solid orange, `#FFA348`
+- **PEAK GREEN**: solid light green, `#57E389`
+- **RED**: solid red, `#C01C28`
 
 ### Faster Temp Tower levels
 
@@ -30,19 +34,38 @@
 - Flexural Modulus (MPa): 2443
 - IZOD Impact Strength (kJ/m²): 42
 
-### Spool
+### Plastic spool
 
 - 1.75MM
 - Print Temp: 220~260°C
 - Bed Temp: 90~110°C
 
-## Printer temperatures
+### Card spool
+
+- Diameter Size: 1.75mm
+- Print Temp: 230-270°C
+- Bed Temp: 95-110°C
+- Fan: 0%
+
+## Settings
+
+- density: `1.06`g/cm³
+
+
+### Creality K1
+
+- nozzle temperature
+    - first layer: `255`°C
+    - other layers: `255`°C
+- bed temperature
+    - first layer: `100`°C
+    - other layers: `100`°C
 
 ### Original Prusa MK4, Original Prusa MK4 IS
 
-- nozzle
+- nozzle temperature
     - first layer: `255`°C
     - other layers: `255`°C
-- bed
+- bed temperature
     - first layer: `100`°C
     - other layers: `110`°C

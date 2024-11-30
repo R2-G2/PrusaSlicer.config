@@ -5,6 +5,7 @@
 ### Colors / flavors
 
 - **cyan**: solid blue, `#1A5FB4`
+- **neon orange**: solid bright orange, `#FF7800`
 
 ### Faster Temp Tower levels
 
@@ -29,13 +30,24 @@
 
 - 1.75 mm
 
-## Printer temperatures
+## Settings
+
+- density: `1.29`g/cm³
+
+### Creality K1
+
+- nozzle temperature
+    - first layer: `230`°C
+    - other layers: `230`°C
+- bed temperature
+    - first layer: `70`°C
+    - other layers: `70`°C
 
 ### Original Prusa MK4, Original Prusa MK4 IS
 
-- nozzle
+- nozzle temperature
     - first layer: `220`°C
     - other layers: `220`°C
-- bed
+- bed temperature
     - first layer: `70`°C
     - other layers: `70`°C
