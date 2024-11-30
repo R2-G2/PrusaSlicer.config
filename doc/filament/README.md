@@ -1,3 +1,1 @@
 # Filaments
-
-## Structure
