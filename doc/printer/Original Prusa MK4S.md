@@ -45,13 +45,13 @@
 
 ### CALIBRATION
 
-Bed calibration: `Automatic, Mesh Bed Leveling (only on print area)`
+- Bed calibration: `Automatic, Mesh Bed Leveling (only on print area)`
 
 ### MATERIALS
 
-Supported materials: `PLA, PETG, Flex, PVA, PC, PP, CPE, PVB and when using the Original Prusa Enclosure with filtration add-on ABS, ASA, HIPS, PA`
+- Supported materials: `PLA, PETG, Flex, PVA, PC, PP, CPE, PVB and when using the Original Prusa Enclosure with filtration add-on ABS, ASA, HIPS, PA`
 
 ### POWER
 
-PSU: `240W, custom made by Delta with Power Panic HW`
-Power consumption: `PLA settings: 80W / ABS settings: 120W`
+- PSU: `240W, custom made by Delta with Power Panic HW`
+- Power consumption: `PLA settings: 80W / ABS settings: 120W`
