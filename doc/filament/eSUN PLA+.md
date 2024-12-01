@@ -41,7 +41,6 @@
 
 - density: `1.25`g/cm³
 
-
 ### Creality K1
 
 - nozzle temperature
