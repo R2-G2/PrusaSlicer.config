@@ -13,5 +13,6 @@
 - **[extrudr PLA NX2](./extrudr%20PLA%20NX2.md)**
 - **[extrudr XPETG](./extrudr%20XPETG.md)**
 - **[Flashforge PLA](./Flashforge%20PLA.md)**
+- **[Prusament ASA](./Prusament%20ASA.md)**
 - **[Prusament PETG](./Prusament%20PETG.md)**
 - **[SUNLU PLA](./SUNLU%20PLA.md)**
