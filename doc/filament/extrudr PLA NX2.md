@@ -4,7 +4,12 @@
 
 ### Colors / flavors
 
+- **emerald green**: solid green, `#26A269`
+- **grey**: solid light grey, `#77767B`
+- **hellfire red**: solid bright red, `#E01B24`
+- **navy blue**: solid blue, `#1A5FB4`
 - **orange**: solid light orange, `#FFBE6F`
+- **white**: solid white, `#FFFFFF`
 
 ### Faster Temp Tower levels
 
