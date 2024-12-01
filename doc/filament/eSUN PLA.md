@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-- **LUMINOUS GREEN**: green luminescent white, `#FFFFFF`
+- $\textcolor{#FFFFFF}▣$ **LUMINOUS GREEN**: green luminescent white, `#FFFFFF`
 
 ### Faster Temp Tower levels
 

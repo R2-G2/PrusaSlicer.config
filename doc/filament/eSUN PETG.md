@@ -4,15 +4,15 @@
 
 ### Colors / flavors
 
-- **GREEN**: translucent dark green, `#26A269`
-- **NATURAL**: translucent white, `#FFFFFF`
-- **ORANGE**: translucent orange, `#FFBE6F`
-- **SOLID BLACK**: solid black, `#000000`
-- **SOLID GOLD**: solid gold, `#E5A50A`
-- **SOLID ORANGE**: solid orange, `#FFA348`
-- **SOLID PURPLE**: solid purple, `#613583`
-- **SOLID RED**: solid bright red, `#E01B24`
-- **SOLID YELLOW**: solid yellow, `#F6D32D`
+- $\textcolor{#26A269}▣$ **GREEN**: translucent dark green, `#26A269`
+- $\textcolor{#FFFFFF}▣$ **NATURAL**: translucent white, `#FFFFFF`
+- $\textcolor{#FFBE6F}▣$ **ORANGE**: translucent orange, `#FFBE6F`
+- $\textcolor{#000000}▣$ **SOLID BLACK**: solid black, `#000000`
+- $\textcolor{#E5A50A}▣$ **SOLID GOLD**: solid gold, `#E5A50A`
+- $\textcolor{#FFA348}▣$ **SOLID ORANGE**: solid orange, `#FFA348`
+- $\textcolor{#613583}▣$ **SOLID PURPLE**: solid purple, `#613583`
+- $\textcolor{#E01B24}▣$ **SOLID RED**: solid bright red, `#E01B24`
+- $\textcolor{#F6D32D}▣$ **SOLID YELLOW**: solid yellow, `#F6D32D`
 
 ### Faster Temp Tower levels
 

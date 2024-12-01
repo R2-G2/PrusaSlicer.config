@@ -4,11 +4,11 @@
 
 ### Colors / flavors
 
-- **BLACK**: solid black, `#000000`
-- **BLUE**: solid dark blue, `#1C71D8`
-- **ORANGE**: solid orange, `#FFA348`
-- **PEAK GREEN**: solid light green, `#57E389`
-- **RED**: solid red, `#C01C28`
+- $\textcolor{#000000`}▣$ **BLACK**: solid black, `#000000`
+- $\textcolor{#1C71D8`}▣$ **BLUE**: solid dark blue, `#1C71D8`
+- $\textcolor{#FFA348`}▣$ **ORANGE**: solid orange, `#FFA348`
+- $\textcolor{#57E389`}▣$ **PEAK GREEN**: solid light green, `#57E389`
+- $\textcolor{#C01C28`}▣$ **RED**: solid red, `#C01C28`
 
 ### Faster Temp Tower levels
 
