@@ -4,9 +4,11 @@
 
 ### Colors / flavors
 
-- $\textcolor{#8FF0A4}■$ **LIME**: solid bright green, `#8FF0A4`
-- $\textcolor{#613583}■$ **PURPLE**: solid purple, `#613583`
-- $\textcolor{#FFFFFF}■$ **Rainbow Multicolor**: solid rainbow spectrum, `#FFFFFF`
+$\textcolor{#8FF0A4}■$ **LIME**: solid bright green, `#8FF0A4`
+
+$\textcolor{#613583}■$ **PURPLE**: solid purple, `#613583`
+
+$\textcolor{#FFFFFF}■$ **Rainbow Multicolor**: solid rainbow spectrum, `#FFFFFF`
 
 ### Faster Temp Tower levels
 
