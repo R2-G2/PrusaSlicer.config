@@ -4,9 +4,7 @@
 
 ### Colors / flavors
 
-- **Natural**: solid light brown, `#CDAB8F`
-
-$\textcolor{#CDAB8F}{PREVIEW}$
+- **Natural**: solid light brown, `#CDAB8F` $\textcolor{#CDAB8F}{▣ ■}$
 
 ### Faster Temp Tower levels
 
