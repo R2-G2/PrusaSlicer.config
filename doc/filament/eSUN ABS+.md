@@ -5,7 +5,7 @@
 ### Colors / flavors
 
 - **BLACK**: solid black, `#000000`
-- **BLUE**: solid blue, `#1C71D8`
+- **BLUE**: solid dark blue, `#1C71D8`
 - **ORANGE**: solid orange, `#FFA348`
 - **PEAK GREEN**: solid light green, `#57E389`
 - **RED**: solid red, `#C01C28`

@@ -9,9 +9,9 @@
 - **ORANGE**: translucent orange, `#FFBE6F`
 - **SOLID BLACK**: solid black, `#000000`
 - **SOLID GOLD**: solid gold, `#E5A50A`
-- **SOLID ORANGE**: solid light orange, `#FFA348`
+- **SOLID ORANGE**: solid orange, `#FFA348`
 - **SOLID PURPLE**: solid purple, `#613583`
-- **SOLID RED**: solid red, `#E01B24`
+- **SOLID RED**: solid bright red, `#E01B24`
 - **SOLID YELLOW**: solid yellow, `#F6D32D`
 
 ### Faster Temp Tower levels
