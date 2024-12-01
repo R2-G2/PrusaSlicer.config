@@ -4,8 +4,8 @@
 
 ### Colors / flavors
 
-- $\textcolor{#000000}▣$ **BLACK**: solid black, `#000000`
-- $\textcolor{#DC8ADD}▣$ **PINK**: solid light pink, `#DC8ADD`
+- $\textcolor{#000000}■$ **BLACK**: solid black, `#000000`
+- $\textcolor{#DC8ADD}■$ **PINK**: solid light pink, `#DC8ADD`
 
 ### Faster Temp Tower levels
 

@@ -4,8 +4,8 @@
 
 ### Colors / flavors
 
-- $\textcolor{#1A5FB4}▣$ **cyan**: solid blue, `#1A5FB4`
-- $\textcolor{#FF7800}▣$ **neon orange**: solid bright orange, `#FF7800`
+- $\textcolor{#1A5FB4}■$ **cyan**: solid blue, `#1A5FB4`
+- $\textcolor{#FF7800}■$ **neon orange**: solid bright orange, `#FF7800`
 
 ### Faster Temp Tower levels
 

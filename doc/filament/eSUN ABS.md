@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-- $\textcolor{#FFFFFF}▣$ **WHITE**: solid white, `#FFFFFF`
+- $\textcolor{#FFFFFF}■$ **WHITE**: solid white, `#FFFFFF`
 
 ### Faster Temp Tower levels
 
