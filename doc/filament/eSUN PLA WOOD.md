@@ -6,7 +6,7 @@
 
 - **Natural**: solid light brown, `#CDAB8F`
 
-$\textcolor{#CDAB8F}{\textsf{PREVIEW}}$
+$\textcolor{#CDAB8F}PREVIEW$
 
 ### Faster Temp Tower levels
 
