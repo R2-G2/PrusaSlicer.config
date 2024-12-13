@@ -7,30 +7,23 @@
 #### Printers
 
 - **Anycubic Photon Mono** *[simply enhanced]*
-    - proprietary
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-- **VORON Design Voron 2.4R2 350** *[suspiciously stock, RevC, WIP]*
-    - sourced by *LDO Motors*
-    - ~~**Raspberry Pi 3 Model B+**~~
-    - ~~Klipper~~
+- **Original Prusa XL - 2 Toolheads** *[suspiciously stock]* & **Original Prusa XL Enclosure** *[suspiciously stock]*
     - w/ **SUNLU FilaDryer S2** *[seriously stock]*
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 - **Original Prusa MK4S** *[simply enhanced]* & **Original Prusa MMU3** *[seriously stock]*
-    - kit
-    - proprietary
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 
 #### Hall of ~~filament~~ fame
 
 - **Creality K1** *[simply enhanced]*
-    - proprietary Klipper
 - **Artillery Sidewinder X2** *[slighty modded]*
-    - proprietary Marlin
+- **VORON Design Voron 2.4R2 350** *[suspiciously stock, RevC]*
+    - sourced by *LDO Motors*
 - **Flashforge Adventurer 4** *[seemingly stock]*
-    - proprietary
     - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
 
 ### Find me on
