@@ -8,14 +8,38 @@ $\textcolor{#FF7800}■$ **Prusa Orange**: solid bright orange, `#FF7800`
 
 ### Faster Temp Tower levels
 
-1. `245`°C @ Layer `1`
-2. `250`°C @ Layer `36`
-3. `255`°C @ Layer `71`
-4. `260`°C @ Layer `106`
-5. `265`°C @ Layer `141`
-6. `270`°C @ Layer `176`
-7. `275`°C @ Layer `212`
-8. `280`°C @ Layer `247`
+1. `280`°C @ Layer `1`
+```
+M109 S280
+```
+2. `275`°C @ Layer `36`
+```
+M104 S275
+```
+3. `270`°C @ Layer `71`
+```
+M104 S270
+```
+4. `265`°C @ Layer `106`
+```
+M104 S265
+```
+5. `260`°C @ Layer `141`
+```
+M104 S260
+```
+6. `255`°C @ Layer `176`
+```
+M104 S255
+```
+7. `250`°C @ Layer `212`
+```
+M104 S250
+```
+8. `245`°C @ Layer `247`
+```
+M104 S245
+```
 
 ### Packaging
 

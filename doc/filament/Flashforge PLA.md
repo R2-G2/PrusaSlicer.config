@@ -35,7 +35,7 @@ $\textcolor{#E01B24}■$ **Red**: solid bright red, `#E01B24`
     - first layer: `50`°C
     - other layers: `50`°C
 
-### Original Prusa MK4, Original Prusa MK4 IS
+### Original Prusa MK4, MK4 IS
 
 - nozzle temperature
     - first layer: `220`°C

@@ -12,7 +12,7 @@ $\textcolor{#F6D32D}■$ **neon yellow**: solid bright yellow, `#F6D32D`
 
 1. `240`°C @ Layer `1`
 ```
-M104 S240
+M109 S240
 ```
 2. `235`°C @ Layer `36`
 ```
@@ -61,8 +61,8 @@ M104 S205
 ### Original Prusa MK4S
 
 - nozzle temperature
-- first layer: `666`°C
-- other layers: `666`°C
+- first layer: `215`°C
+- other layers: `215`°C
 - bed temperature
-- first layer: `42`°C
-- other layers: `42`°C
+- first layer: `50`°C
+- other layers: `50`°C

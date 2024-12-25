@@ -8,14 +8,38 @@ $\textcolor{#241F31}■$ **carbon**: solid light black, `#241F31`
 
 ### Faster Temp Tower levels
 
-1. `215`°C @ Layer `1`
-2. `220`°C @ Layer `36`
-3. `225`°C @ Layer `71`
-4. `230`°C @ Layer `106`
-5. `235`°C @ Layer `141`
-6. `240`°C @ Layer `176`
-7. `245`°C @ Layer `212`
-8. `250`°C @ Layer `247`
+1. `250`°C @ Layer `1`
+```
+M109 S250
+```
+2. `245`°C @ Layer `36`
+```
+M104 S245
+```
+3. `240`°C @ Layer `71`
+```
+M104 S240
+```
+4. `235`°C @ Layer `106`
+```
+M104 S235
+```
+5. `230`°C @ Layer `141`
+```
+M104 S230
+```
+6. `225`°C @ Layer `176`
+```
+M104 S225
+```
+7. `220`°C @ Layer `212`
+```
+M104 S220
+```
+8. `215`°C @ Layer `247`
+```
+M104 S215
+```
 
 ### Packaging
 
