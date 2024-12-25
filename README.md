@@ -21,10 +21,14 @@
 
 - **Creality K1** *[simply enhanced]*
 - **Artillery Sidewinder X2** *[slighty modded]*
-- **VORON Design Voron 2.4R2 350** *[suspiciously stock, RevC]*
-    - sourced by *LDO Motors*
+- **VORON Design Voron 2.4R2 350** *[suspiciously stock]*
+    - *Rev. C* sourced by *LDO Motors*
 - **Flashforge Adventurer 4** *[seemingly stock]*
     - fed by **FlashPrint[.config](https://github.com/R2-G2/FlashPrint.config)**
+
+#### Additional tools
+
+- **SUNLU Filament Connector FC01** *[seriously stock]*
 
 ### Find me on
 
@@ -33,6 +37,7 @@
 
 ## Structure
 
+- **bin/**: collection of helping tools
 - **cfg/**: my configuration folder
     - **filament/**: filaments
     - **physical_printer/**: machines *[ignored]*
@@ -45,7 +50,7 @@
     - **printer/**: [Printers](./doc/printer/README.md)
 - **res/**: configuration resources from (other) slicer softwares
     - **Creality Print/**: Ender-3Xs Pro
-    - **PrusaSlicer/**: Photon Mono, Voron 2.4R2 350, Ender-3Xs Pro, MK4S & MMU3
+    - **PrusaSlicer/**: Photon Mono, XL, Ender-3Xs Pro, MK4S & MMU3
     - **UVtools/**: Photon Mono
 
 ## Usage
