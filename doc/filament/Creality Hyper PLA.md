@@ -66,3 +66,12 @@ M104 S195
 - bed temperature
     - first layer: `45`°C
     - other layers: `45`°C
+
+### Original Prusa MK4S
+
+- nozzle temperature
+    - first layer: `230`°C
+    - other layers: `220`°C
+- bed temperature
+    - first layer: `60`°C
+    - other layers: `60`°C
