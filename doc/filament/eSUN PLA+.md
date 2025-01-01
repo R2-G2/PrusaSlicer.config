@@ -6,6 +6,8 @@
 
 $\textcolor{#000000}■$ **BLACK**: solid black, `#000000`
 
+$\textcolor{#57E389}■$ **PEAK GREEN**: solid light green, `#57E389`
+
 $\textcolor{#DC8ADD}■$ **PINK**: solid light pink, `#DC8ADD`
 
 ### Faster Temp Tower levels
@@ -56,11 +58,18 @@ M104 S200
 - Flexural Modulus (MPa): 2102
 - IZOD Impact Strength (kJ/m²): 8.5
 
-### Spool
+### Plastic spool
 
 - 1.75MM
 - Print Temp: 205~225°C
 - Bed Temp: No Heat / 60~80°C
+
+### Card spool
+
+- Diameter Size: 1.75mm
+- Print Temp: 210-230°C
+- Bed Temp: 45-60°C
+- Fan: 100%
 
 ## Settings
 
