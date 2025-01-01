@@ -1,10 +1,10 @@
-# SUNLU PLA
+# SUNLU PLA Carbon Fiber
 
 ## Notes
 
 ### Colors / flavors
 
-$\textcolor{#241F31}■$ **Carbon Fiber**: solid light black, `#241F31`
+$\textcolor{#241F31}■$ **Black**: solid light black, `#241F31`
 
 ### Faster Temp Tower levels
 

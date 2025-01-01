@@ -1,10 +1,10 @@
-# extrudr XPETG
+# extrudr XPETG CF
 
 ## Notes
 
 ### Colors / flavors
 
-$\textcolor{#241F31}■$ **carbon**: solid light black, `#241F31`
+$\textcolor{#000000}■$ **black**: solid black, `#000000`
 
 ### Faster Temp Tower levels
 
