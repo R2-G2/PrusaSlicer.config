@@ -16,7 +16,6 @@
 – Flashforge Adventurer 4
 
 | Additional tools
-
 – SUNLU Filament Connector FC01
 
 [R2G2de](https://www.printables.com/@R2G2de "Printables.com profile link for accounts connection")
