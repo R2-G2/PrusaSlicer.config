@@ -58,7 +58,7 @@ M104 S225
 
 - nozzle temperature
     - first layer: `250`°C
-    - other layers: `260`°C
+    - other layers: `250`°C
 - bed temperature
-    - first layer: `85`°C
+    - first layer: `90`°C
     - other layers: `90`°C
