@@ -8,13 +8,13 @@
 
 - **Anycubic Photon Mono** *[simply enhanced]*
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
-- **Original Prusa XL - 2 Toolheads** *[suspiciously stock]* & **Original Prusa XL Enclosure** *[suspiciously stock]*
+- **Original Prusa XL Dual-Head** *[suspiciously stock]* & **Original Prusa XL Enclosure** *[suspiciously stock]*
     - w/ **SUNLU FilaDryer S2** *[seriously stock]*
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
-- **Original Prusa MK4S** *[simply enhanced]* & **Original Prusa MMU3** *[seriously stock]*
+- **Original Prusa MK4S** *[simply enhanced]* & **Original Prusa MMU3** *[seemingly stock]*
     - w/ **SUNLU FilaDryer S1** *[seriously stock]*
 
 #### Hall of ~~filament~~ fame

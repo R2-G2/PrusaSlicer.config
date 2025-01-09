@@ -5,7 +5,7 @@
 ```text
 | Printers
 – Anycubic Photon Mono w/ Anycubic Wash & Cure Machine 2.0
-– Original Prusa XL - 2 Toolheads & Enclosure w/ SUNLU FilaDryer S2
+– Original Prusa XL Dual-Head & Enclosure w/ SUNLU FilaDryer S2
 – Creality Ender-3Xs Pro w/ SUNLU FilaDryer S1
 – Original Prusa MK4S & MMU3 w/ SUNLU FilaDryer S1
 
