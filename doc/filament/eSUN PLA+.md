@@ -92,3 +92,12 @@ M104 S200
 - bed temperature
     - first layer: `60`°C
     - other layers: `60`°C
+
+### Original Prusa XL Dual-Head
+
+- nozzle temperature
+    - first layer: `225`°C
+    - other layers: `215`°C
+- bed temperature
+    - first layer: `60`°C
+    - other layers: `60`°C

@@ -62,3 +62,12 @@ M104 S225
 - bed temperature
     - first layer: `90`°C
     - other layers: `90`°C
+
+### Original Prusa XL Dual-Head
+
+- nozzle temperature
+    - first layer: `250`°C
+    - other layers: `250`°C
+- bed temperature
+    - first layer: `80`°C
+    - other layers: `80`°C
