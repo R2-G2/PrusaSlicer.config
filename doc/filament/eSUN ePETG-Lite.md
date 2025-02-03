@@ -55,8 +55,8 @@ M104 S240
 ### Original Prusa MK4S
 
 - nozzle temperature
-    - first layer: `250`°C
-    - other layers: `250`°C
+    - first layer: `260`°C
+    - other layers: `260`°C
 - bed temperature
-    - first layer: `90`°C
-    - other layers: `90`°C
+    - first layer: `80`°C
+    - other layers: `80`°C

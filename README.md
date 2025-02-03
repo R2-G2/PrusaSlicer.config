@@ -9,7 +9,7 @@
 - **Anycubic Photon Mono** *[simply enhanced]*
     - w/ **Anycubic Wash & Cure Machine 2.0** *[simply enhanced]*
 - **Original Prusa XL Dual-Head** *[suspiciously stock]* & **Original Prusa XL Enclosure** *[suspiciously stock]*
-    - w/ **SUNLU FilaDryer S2** *[seriously stock]*
+    - w/ **Sovol SH02** *[seriously stock]*
 - **Creality Ender-3Xs Pro** *[strongly upgraded, WIP]*
     - ~~**Raspberry Pi 3 Model B+** w/ **Raspberry Pi Touch Display**~~
     - ~~Klipper~~
@@ -29,6 +29,7 @@
 #### Additional tools
 
 - **SUNLU Filament Connector FC01** *[seriously stock]*
+- **SUNLU FilaDryer S2** *[seriously stock]*
 
 ### Find me on
 

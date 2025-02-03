@@ -57,3 +57,12 @@ M104 S235
 ## Settings
 
 - density: `1.27`g/cm³
+
+### Original Prusa XL Dual-Head
+
+- nozzle temperature
+    - first layer: `240`°C
+    - other layers: `250`°C
+- bed temperature
+    - first layer: `80`°C
+    - other layers: `80`°C

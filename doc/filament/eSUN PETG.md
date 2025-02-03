@@ -14,6 +14,8 @@ $\textcolor{#FFBE6F}■$ **ORANGE**: translucent orange, `#FFBE6F`
 
 $\textcolor{#000000}■$ **SOLID BLACK**: solid black, `#000000`
 
+$\textcolor{#1A5FB4}■$ **SOLID BLUE**: solid blue, `#1A5FB4`
+
 $\textcolor{#E5A50A}■$ **SOLID GOLD**: solid gold, `#E5A50A`
 
 $\textcolor{#FFA348}■$ **SOLID ORANGE**: solid orange, `#FFA348`
