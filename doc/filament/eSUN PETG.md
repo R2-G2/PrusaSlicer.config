@@ -4,27 +4,27 @@
 
 ### Colors / flavors
 
-$\textcolor{#26A269}■$ **GREEN**: translucent dark green, `#26A269`
+$\textcolor{#26A269}■$ `#26A269` **GREEN**: translucent dark green
 
-$\textcolor{#FFFFFF}■$ **LIVING SPOOL**: randomly spliced colors, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **LIVING SPOOL**: randomly spliced colors
 
-$\textcolor{#FFFFFF}■$ **NATURAL**: translucent white, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **NATURAL**: translucent white
 
-$\textcolor{#FFBE6F}■$ **ORANGE**: translucent orange, `#FFBE6F`
+$\textcolor{#FFBE6F}■$ `#FFBE6F` **ORANGE**: translucent orange
 
-$\textcolor{#000000}■$ **SOLID BLACK**: solid black, `#000000`
+$\textcolor{#000000}■$ `#000000` **SOLID BLACK**: solid black
 
-$\textcolor{#1A5FB4}■$ **SOLID BLUE**: solid blue, `#1A5FB4`
+$\textcolor{#1A5FB4}■$ `#1A5FB4` **SOLID BLUE**: solid blue
 
-$\textcolor{#E5A50A}■$ **SOLID GOLD**: solid gold, `#E5A50A`
+$\textcolor{#E5A50A}■$ `#E5A50A` **SOLID GOLD**: solid gold
 
-$\textcolor{#FFA348}■$ **SOLID ORANGE**: solid orange, `#FFA348`
+$\textcolor{#FFA348}■$ `#FFA348` **SOLID ORANGE**: solid orange
 
-$\textcolor{#613583}■$ **SOLID PURPLE**: solid purple, `#613583`
+$\textcolor{#613583}■$ `#613583` **SOLID PURPLE**: solid purple
 
-$\textcolor{#E01B24}■$ **SOLID RED**: solid bright red, `#E01B24`
+$\textcolor{#E01B24}■$ `#E01B24` **SOLID RED**: solid bright red
 
-$\textcolor{#F6D32D}■$ **SOLID YELLOW**: solid yellow, `#F6D32D`
+$\textcolor{#F6D32D}■$ `#F6D32D` **SOLID YELLOW**: solid yellow
 
 ### Faster Temp Tower levels
 

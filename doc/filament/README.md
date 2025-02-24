@@ -19,4 +19,5 @@
 - **[Flashforge PLA](./Flashforge%20PLA.md)**
 - **[Prusament ASA](./Prusament%20ASA.md)**
 - **[Prusament PETG](./Prusament%20PETG.md)**
+- **[Prusament PLA](./Prusament%20PLA.md)**
 - **[SUNLU PLA Carbon Fiber](./SUNLU%20PLA%20Carbon%20Fiber.md)**

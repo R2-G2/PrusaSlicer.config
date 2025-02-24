@@ -4,11 +4,11 @@
 
 ### Colors / flavors
 
-$\textcolor{#1A5FB4}■$ **cyan**: solid blue, `#1A5FB4`
+$\textcolor{#1A5FB4}■$ `#1A5FB4` **cyan**: solid blue
 
-$\textcolor{#FFFFFF}■$ **living spool**: randomly spliced colors, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **living spool**: randomly spliced colors
 
-$\textcolor{#FF7800}■$ **neon orange**: solid bright orange, `#FF7800`
+$\textcolor{#FF7800}■$ `#FF7800` **neon orange**: solid bright orange
 
 ### Faster Temp Tower levels
 

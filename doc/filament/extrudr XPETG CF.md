@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-$\textcolor{#000000}■$ **black**: solid black, `#000000`
+$\textcolor{#000000}■$ `#000000` **black**: solid black *[abrasive]*
 
 ### Faster Temp Tower levels
 

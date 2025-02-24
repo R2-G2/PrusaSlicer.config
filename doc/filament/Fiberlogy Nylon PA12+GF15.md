@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-$\textcolor{#57E389}■$ **Light Green**: solid light green, `#57E389`
+$\textcolor{#57E389}■$ `#57E389` **Light Green**: solid light green *[abrasive]*
 
 ### Faster Temp Tower levels
 

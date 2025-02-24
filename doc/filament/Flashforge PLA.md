@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-$\textcolor{#E01B24}■$ **Red**: solid bright red, `#E01B24`
+$\textcolor{#E01B24}■$ `#E01B24` **Red**: solid bright red
 
 ### Faster Temp Tower levels
 

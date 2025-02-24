@@ -4,9 +4,9 @@
 
 ### Colors / flavors
 
-$\textcolor{#E01B24}■$ **hellfire red**: solid bright red, `#E01B24`
+$\textcolor{#E01B24}■$ `#E01B24` **hellfire red**: solid bright red
 
-$\textcolor{#F6D32D}■$ **neon yellow**: solid bright yellow, `#F6D32D`
+$\textcolor{#F6D32D}■$ `#F6D32D` **neon yellow**: solid bright yellow
 
 ### Faster Temp Tower levels
 

@@ -1,10 +1,10 @@
-# SUNLU PLA Carbon Fiber
+# Prusament PLA
 
 ## Notes
 
 ### Colors / flavors
 
-$\textcolor{#241F31}■$ `#241F31` **Black**: solid light black *[abrasive]*
+$\textcolor{#3D3846}■$ `#3D3846` **Prusa Galaxy Black**: solid glitter black
 
 ### Faster Temp Tower levels
 
@@ -43,17 +43,15 @@ M104 S200
 
 ### Packaging
 
-- PRINTING TEMP: 200-230°C
-- PLATFORM TEMP: Glue required if not heated, glue unrequired if 60-80°C
-- TOLERANCE: ±0.02mm
-- TENSILE STRENGTH (kgf): 11-14
-- MELT FLOW RATE: 11-16g/10min(220°C,2.16kg)
+- 1.75 mm ±
+- Nozzle tempeartur: 205 - 225°C
+- Heatbed temperatur: 40 - 60°C
 
 ### Spool
 
-- 1.75mm
-- Print Temp: 200-230°C
+- Nozzle: 215 ±10 °C
+- Heatbed: 50 ±10 °C
 
 ## Settings
 
-- density: `0`g/cm³
+- density: `1.24`g/cm³

@@ -4,11 +4,11 @@
 
 ### Colors / flavors
 
-$\textcolor{#000000}■$ **BLACK**: solid black, `#000000`
+$\textcolor{#000000}■$ `#000000` **BLACK**: solid black
 
-$\textcolor{#57E389}■$ **PEAK GREEN**: solid light green, `#57E389`
+$\textcolor{#57E389}■$ `#57E389` **PEAK GREEN**: solid light green
 
-$\textcolor{#DC8ADD}■$ **PINK**: solid light pink, `#DC8ADD`
+$\textcolor{#DC8ADD}■$ `#DC8ADD` **PINK**: solid light pink
 
 ### Faster Temp Tower levels
 

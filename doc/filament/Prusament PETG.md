@@ -4,9 +4,9 @@
 
 ### Colors / flavors
 
-$\textcolor{#000000}■$ **BL**: solid black, `#000000`
+$\textcolor{#000000}■$ `#000000` **BL**: solid black
 
-$\textcolor{#F6D32D}■$ **Mango Yellow**: solid yellow, `#F6D32D`
+$\textcolor{#F6D32D}■$ `#F6D32D` **Mango Yellow**: solid yellow
 
 ### Faster Temp Tower levels
 

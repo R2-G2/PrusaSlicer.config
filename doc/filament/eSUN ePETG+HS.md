@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-$\textcolor{#2EC27E}■$ **SOLID GREEN**: solid green, `#2EC27E`
+$\textcolor{#2EC27E}■$ `#2EC27E` **SOLID GREEN**: solid green
 
 ### Faster Temp Tower levels
 

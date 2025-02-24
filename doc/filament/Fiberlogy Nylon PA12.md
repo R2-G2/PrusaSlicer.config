@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-$\textcolor{#3584E4}■$ **Blue**: solid light blue, `#3584E4`
+$\textcolor{#3584E4}■$ `#3584E4` **Blue**: solid light blue
 
 ### Faster Temp Tower levels
 

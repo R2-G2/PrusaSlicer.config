@@ -4,17 +4,17 @@
 
 ### Colors / flavors
 
-$\textcolor{#26A269}■$ **emerald green**: solid green, `#26A269`
+$\textcolor{#26A269}■$ `#26A269` **emerald green**: solid green
 
-$\textcolor{#77767B}■$ **grey**: solid light grey, `#77767B`
+$\textcolor{#77767B}■$ `#77767B` **grey**: solid light grey
 
-$\textcolor{#E01B24}■$ **hellfire red**: solid bright red, `#E01B24`
+$\textcolor{#E01B24}■$ `#E01B24` **hellfire red**: solid bright red
 
-$\textcolor{#1A5FB4}■$ **navy blue**: solid blue, `#1A5FB4`
+$\textcolor{#1A5FB4}■$ `#1A5FB4` **navy blue**: solid blue
 
-$\textcolor{#FFBE6F}■$ **orange**: solid light orange, `#FFBE6F`
+$\textcolor{#FFBE6F}■$ `#FFBE6F` **orange**: solid light orange
 
-$\textcolor{#FFFFFF}■$ **white**: solid white, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **white**: solid white
 
 ### Faster Temp Tower levels
 

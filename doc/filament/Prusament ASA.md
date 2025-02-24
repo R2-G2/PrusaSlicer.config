@@ -4,7 +4,7 @@
 
 ### Colors / flavors
 
-$\textcolor{#FF7800}■$ **Prusa Orange**: solid bright orange, `#FF7800`
+$\textcolor{#FF7800}■$ `#FF7800` **Prusa Orange**: solid bright orange
 
 ### Faster Temp Tower levels
 
