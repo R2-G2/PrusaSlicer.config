@@ -3,6 +3,7 @@
 - **[Creality Hyper PLA](./Creality%20Hyper%20PLA.md)**
 - **[eSUN ABS](./eSUN%20ABS.md)**
 - **[eSUN ABS+](./eSUN%20ABS+.md)**
+- **[eSUN eMarble](./eSUN%20eMarble.md)**
 - **[eSUN ePETG-Lite](./eSUN%20ePETG-Lite.md)**
 - **[eSUN ePETG+HS](./eSUN%20ePETG+HS.md)**
 - **[eSUN eSilk-PLA](./eSUN%20eSilk-PLA.md)**
