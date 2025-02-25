@@ -4,22 +4,46 @@
 
 ### Colors / flavors
 
-$\textcolor{#8FF0A4}■$ **LIME**: solid bright green, `#8FF0A4`
+$\textcolor{#8FF0A4}■$ `#8FF0A4` **LIME**: solid bright green
 
-$\textcolor{#613583}■$ **PURPLE**: solid purple, `#613583`
+$\textcolor{#613583}■$ `#613583` **PURPLE**: solid purple
 
-$\textcolor{#FFFFFF}■$ **Rainbow Multicolor**: solid rainbow spectrum, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **Rainbow Multicolor**: solid rainbow spectrum
 
 ### Faster Temp Tower levels
 
-1. `190`°C @ Layer `1`
-2. `195`°C @ Layer `36`
-3. `200`°C @ Layer `71`
-4. `205`°C @ Layer `106`
-5. `210`°C @ Layer `141`
-6. `215`°C @ Layer `176`
-7. `220`°C @ Layer `212`
-8. `225`°C @ Layer `247`
+1. `225`°C @ Layer `1`
+```
+M109 S225
+```
+2. `220`°C @ Layer `36`
+```
+M104 S220
+```
+3. `215`°C @ Layer `71`
+```
+M104 S215
+```
+4. `210`°C @ Layer `106`
+```
+M104 S210
+```
+5. `205`°C @ Layer `141`
+```
+M104 S205
+```
+6. `200`°C @ Layer `176`
+```
+M104 S200
+```
+7. `195`°C @ Layer `212`
+```
+M104 S195
+```
+8. `190`°C @ Layer `247`
+```
+M104 S190
+```
 
 ### Packaging
 
@@ -53,11 +77,20 @@ $\textcolor{#FFFFFF}■$ **Rainbow Multicolor**: solid rainbow spectrum, `#FFFFF
     - first layer: `70`°C
     - other layers: `70`°C
 
-### Original Prusa MK4, Original Prusa MK4 IS
+### Original Prusa MK4, MK4 IS
 
 - nozzle temperature
     - first layer: `220`°C
     - other layers: `210`°C
+- bed temperature
+    - first layer: `60`°C
+    - other layers: `60`°C
+
+### Original Prusa MK4S
+
+- nozzle temperature
+    - first layer: `220`°C
+    - other layers: `215`°C
 - bed temperature
     - first layer: `60`°C
     - other layers: `60`°C

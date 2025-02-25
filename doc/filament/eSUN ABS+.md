@@ -4,26 +4,50 @@
 
 ### Colors / flavors
 
-$\textcolor{#000000}■$ **BLACK**: solid black, `#000000`
+$\textcolor{#000000}■$ `#000000` **BLACK**: solid black
 
-$\textcolor{#1C71D8}■$ **BLUE**: solid dark blue, `#1C71D8`
+$\textcolor{#1C71D8}■$ `#1C71D8` **BLUE**: solid dark blue
 
-$\textcolor{#FFA348}■$ **ORANGE**: solid orange, `#FFA348`
+$\textcolor{#FFA348}■$ `#FFA348` **ORANGE**: solid orange
 
-$\textcolor{#57E389}■$ **PEAK GREEN**: solid light green, `#57E389`
+$\textcolor{#57E389}■$ `#57E389` **PEAK GREEN**: solid light green
 
-$\textcolor{#C01C28}■$ **RED**: solid red, `#C01C28`
+$\textcolor{#C01C28}■$ `#C01C28` **RED**: solid red
 
 ### Faster Temp Tower levels
 
-1. `225`°C @ Layer `1`
-2. `230`°C @ Layer `36`
-3. `235`°C @ Layer `71`
-4. `240`°C @ Layer `106`
-5. `245`°C @ Layer `141`
-6. `250`°C @ Layer `176`
-7. `255`°C @ Layer `212`
-8. `260`°C @ Layer `247`
+1. `260`°C @ Layer `1`
+```
+M109 S260
+```
+2. `255`°C @ Layer `36`
+```
+M104 S255
+```
+3. `250`°C @ Layer `71`
+```
+M104 S250
+```
+4. `245`°C @ Layer `106`
+```
+M104 S245
+```
+5. `240`°C @ Layer `141`
+```
+M104 S240
+```
+6. `235`°C @ Layer `176`
+```
+M104 S235
+```
+7. `230`°C @ Layer `212`
+```
+M104 S230
+```
+8. `225`°C @ Layer `247`
+```
+M104 S225
+```
 
 ### Packaging
 
@@ -64,7 +88,7 @@ $\textcolor{#C01C28}■$ **RED**: solid red, `#C01C28`
     - first layer: `100`°C
     - other layers: `100`°C
 
-### Original Prusa MK4, Original Prusa MK4 IS
+### Original Prusa MK4, MK4 IS
 
 - nozzle temperature
     - first layer: `255`°C

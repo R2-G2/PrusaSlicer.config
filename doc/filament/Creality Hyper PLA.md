@@ -4,18 +4,42 @@
 
 ### Colors / flavors
 
-$\textcolor{#FFFFFF}■$ **White**: solid white, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **White**: solid white
 
 ### Faster Temp Tower levels
 
-1. `195`°C @ Layer `1`
-2. `200`°C @ Layer `36`
-3. `205`°C @ Layer `71`
-4. `210`°C @ Layer `106`
-5. `215`°C @ Layer `141`
-6. `220`°C @ Layer `176`
-7. `225`°C @ Layer `212`
-8. `230`°C @ Layer `247`
+1. `230`°C @ Layer `1`
+```
+M109 S230
+```
+2. `225`°C @ Layer `36`
+```
+M104 S225
+```
+3. `220`°C @ Layer `71`
+```
+M104 S220
+```
+4. `215`°C @ Layer `106`
+```
+M104 S215
+```
+5. `210`°C @ Layer `141`
+```
+M104 S210
+```
+6. `205`°C @ Layer `176`
+```
+M104 S205
+```
+7. `200`°C @ Layer `212`
+```
+M104 S200
+```
+8. `195`°C @ Layer `247`
+```
+M104 S195
+```
 
 ### Packaging
 
@@ -42,3 +66,12 @@ $\textcolor{#FFFFFF}■$ **White**: solid white, `#FFFFFF`
 - bed temperature
     - first layer: `45`°C
     - other layers: `45`°C
+
+### Original Prusa MK4S
+
+- nozzle temperature
+    - first layer: `230`°C
+    - other layers: `220`°C
+- bed temperature
+    - first layer: `60`°C
+    - other layers: `60`°C

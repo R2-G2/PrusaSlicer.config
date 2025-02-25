@@ -4,34 +4,62 @@
 
 ### Colors / flavors
 
-$\textcolor{#26A269}■$ **GREEN**: translucent dark green, `#26A269`
+$\textcolor{#26A269}■$ `#26A269` **GREEN**: translucent dark green
 
-$\textcolor{#FFFFFF}■$ **NATURAL**: translucent white, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **LIVING SPOOL**: randomly spliced colors
 
-$\textcolor{#FFBE6F}■$ **ORANGE**: translucent orange, `#FFBE6F`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **NATURAL**: translucent white
 
-$\textcolor{#000000}■$ **SOLID BLACK**: solid black, `#000000`
+$\textcolor{#FFBE6F}■$ `#FFBE6F` **ORANGE**: translucent orange
 
-$\textcolor{#E5A50A}■$ **SOLID GOLD**: solid gold, `#E5A50A`
+$\textcolor{#000000}■$ `#000000` **SOLID BLACK**: solid black
 
-$\textcolor{#FFA348}■$ **SOLID ORANGE**: solid orange, `#FFA348`
+$\textcolor{#1A5FB4}■$ `#1A5FB4` **SOLID BLUE**: solid blue
 
-$\textcolor{#613583}■$ **SOLID PURPLE**: solid purple, `#613583`
+$\textcolor{#E5A50A}■$ `#E5A50A` **SOLID GOLD**: solid gold
 
-$\textcolor{#E01B24}■$ **SOLID RED**: solid bright red, `#E01B24`
+$\textcolor{#FFA348}■$ `#FFA348` **SOLID ORANGE**: solid orange
 
-$\textcolor{#F6D32D}■$ **SOLID YELLOW**: solid yellow, `#F6D32D`
+$\textcolor{#613583}■$ `#613583` **SOLID PURPLE**: solid purple
+
+$\textcolor{#E01B24}■$ `#E01B24` **SOLID RED**: solid bright red
+
+$\textcolor{#F6D32D}■$ `#F6D32D` **SOLID YELLOW**: solid yellow
 
 ### Faster Temp Tower levels
 
-1. `225`°C @ Layer `1`
-2. `230`°C @ Layer `36`
-3. `235`°C @ Layer `71`
-4. `240`°C @ Layer `106`
-5. `245`°C @ Layer `141`
-6. `250`°C @ Layer `176`
-7. `255`°C @ Layer `212`
-8. `260`°C @ Layer `247`
+1. `260`°C @ Layer `1`
+```
+M109 S260
+```
+2. `255`°C @ Layer `36`
+```
+M104 S255
+```
+3. `250`°C @ Layer `71`
+```
+M104 S250
+```
+4. `245`°C @ Layer `106`
+```
+M104 S245
+```
+5. `240`°C @ Layer `141`
+```
+M104 S240
+```
+6. `235`°C @ Layer `176`
+```
+M104 S235
+```
+7. `230`°C @ Layer `212`
+```
+M104 S230
+```
+8. `225`°C @ Layer `247`
+```
+M104 S225
+```
 
 ### Packaging
 
@@ -72,7 +100,7 @@ $\textcolor{#F6D32D}■$ **SOLID YELLOW**: solid yellow, `#F6D32D`
     - first layer: `80`°C
     - other layers: `80`°C
 
-### Original Prusa MK4, Original Prusa MK4 IS, Original Prusa MK4S
+### Original Prusa MK4, MK4 IS, MK4S
 
 - nozzle temperature
     - first layer: `250`°C
@@ -80,3 +108,12 @@ $\textcolor{#F6D32D}■$ **SOLID YELLOW**: solid yellow, `#F6D32D`
 - bed temperature
     - first layer: `90`°C
     - other layers: `90`°C
+
+### Original Prusa XL Dual-Head
+
+- nozzle temperature
+    - first layer: `250`°C
+    - other layers: `250`°C
+- bed temperature
+    - first layer: `80`°C
+    - other layers: `80`°C

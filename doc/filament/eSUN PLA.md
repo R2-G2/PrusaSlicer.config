@@ -4,18 +4,42 @@
 
 ### Colors / flavors
 
-$\textcolor{#FFFFFF}■$ **LUMINOUS GREEN**: green luminescent solid white, `#FFFFFF`
+$\textcolor{#FFFFFF}■$ `#FFFFFF` **LUMINOUS GREEN**: green luminescent solid white *[abrasive]*
 
 ### Faster Temp Tower levels
 
-1. `185`°C @ Layer `1`
-2. `190`°C @ Layer `36`
-3. `195`°C @ Layer `71`
-4. `200`°C @ Layer `106`
-5. `205`°C @ Layer `141`
-6. `210`°C @ Layer `176`
-7. `215`°C @ Layer `212`
-8. `220`°C @ Layer `247`
+1. `220`°C @ Layer `1`
+```
+M109 S220
+```
+2. `215`°C @ Layer `36`
+```
+M104 S215
+```
+3. `210`°C @ Layer `71`
+```
+M104 S210
+```
+4. `205`°C @ Layer `106`
+```
+M104 S205
+```
+5. `200`°C @ Layer `141`
+```
+M104 S200
+```
+6. `195`°C @ Layer `176`
+```
+M104 S195
+```
+7. `190`°C @ Layer `212`
+```
+M104 S190
+```
+8. `185`°C @ Layer `247`
+```
+M104 S185
+```
 
 ### Packaging
 
@@ -48,3 +72,12 @@ $\textcolor{#FFFFFF}■$ **LUMINOUS GREEN**: green luminescent solid white, `#FF
 - bed temperature
     - first layer: `70`°C
     - other layers: `70`°C
+
+### Original Prusa MK4S
+
+- nozzle temperature
+    - first layer: `210`°C
+    - other layers: `200`°C
+- bed temperature
+    - first layer: `60`°C
+    - other layers: `60`°C

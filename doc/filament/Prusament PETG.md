@@ -4,20 +4,44 @@
 
 ### Colors / flavors
 
-$\textcolor{#000000}■$ **BL**: solid black, `#000000`
+$\textcolor{#000000}■$ `#000000` **BL**: solid black
 
-$\textcolor{#F6D32D}■$ **Mango Yellow**: solid yellow, `#F6D32D`
+$\textcolor{#F6D32D}■$ `#F6D32D` **Mango Yellow**: solid yellow
 
 ### Faster Temp Tower levels
 
-1. `235`°C @ Layer `1`
-2. `240`°C @ Layer `36`
-3. `245`°C @ Layer `71`
-4. `250`°C @ Layer `106`
-5. `255`°C @ Layer `141`
-6. `260`°C @ Layer `176`
-7. `265`°C @ Layer `212`
-8. `270`°C @ Layer `247`
+1. `270`°C @ Layer `1`
+```
+M109 S270
+```
+2. `265`°C @ Layer `36`
+```
+M104 S265
+```
+3. `260`°C @ Layer `71`
+```
+M104 S260
+```
+4. `255`°C @ Layer `106`
+```
+M104 S255
+```
+5. `250`°C @ Layer `141`
+```
+M104 S250
+```
+6. `245`°C @ Layer `176`
+```
+M104 S245
+```
+7. `240`°C @ Layer `212`
+```
+M104 S240
+```
+8. `235`°C @ Layer `247`
+```
+M104 S235
+```
 
 ### Packaging
 
@@ -33,3 +57,12 @@ $\textcolor{#F6D32D}■$ **Mango Yellow**: solid yellow, `#F6D32D`
 ## Settings
 
 - density: `1.27`g/cm³
+
+### Original Prusa XL Dual-Head
+
+- nozzle temperature
+    - first layer: `240`°C
+    - other layers: `250`°C
+- bed temperature
+    - first layer: `80`°C
+    - other layers: `80`°C

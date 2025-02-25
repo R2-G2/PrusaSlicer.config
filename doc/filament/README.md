@@ -3,6 +3,9 @@
 - **[Creality Hyper PLA](./Creality%20Hyper%20PLA.md)**
 - **[eSUN ABS](./eSUN%20ABS.md)**
 - **[eSUN ABS+](./eSUN%20ABS+.md)**
+- **[eSUN eMarble](./eSUN%20eMarble.md)**
+- **[eSUN ePETG-Lite](./eSUN%20ePETG-Lite.md)**
+- **[eSUN ePETG+HS](./eSUN%20ePETG+HS.md)**
 - **[eSUN eSilk-PLA](./eSUN%20eSilk-PLA.md)**
 - **[eSUN PETG](./eSUN%20PETG.md)**
 - **[eSUN PLA](./eSUN%20PLA.md)**
@@ -11,8 +14,11 @@
 - **[extrudr Flex Medium](./extrudr%20Flex%20Medium.md)**
 - **[extrudr PETG](./extrudr%20PETG.md)**
 - **[extrudr PLA NX2](./extrudr%20PLA%20NX2.md)**
-- **[extrudr XPETG](./extrudr%20XPETG.md)**
+- **[extrudr XPETG CF](./extrudr%20XPETG%20CF.md)**
+- **[Fiberlogy Nylon PA12](./Fiberlogy%20Nylon%20PA12.md)**
+- **[Fiberlogy Nylon PA12+GF15](./Fiberlogy%20Nylon%20PA12+GF15.md)**
 - **[Flashforge PLA](./Flashforge%20PLA.md)**
 - **[Prusament ASA](./Prusament%20ASA.md)**
 - **[Prusament PETG](./Prusament%20PETG.md)**
-- **[SUNLU PLA](./SUNLU%20PLA.md)**
+- **[Prusament PLA](./Prusament%20PLA.md)**
+- **[SUNLU PLA Carbon Fiber](./SUNLU%20PLA%20Carbon%20Fiber.md)**
