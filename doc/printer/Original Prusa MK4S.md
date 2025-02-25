@@ -37,7 +37,8 @@
 
 ### Sensors
 
-- Advanced sensors: `Filament sensor, Loadcell sensor, Power panic, 4 high-precision thermistors (genuine Semitec) + fan motors RPM monitoring`
+- Advanced sensors: `Filament sensor, Loadcell sensor, Power panic, 4 high-precision thermistors (genuine Semitec) + fan
+    motors RPM monitoring`
 
 ### Print surface
 
@@ -49,7 +50,8 @@
 
 ### Materials
 
-- Supported materials: `PLA, PETG, Flex, PVA, PC, PP, CPE, PVB and when using the Original Prusa Enclosure with filtration add-on ABS, ASA, HIPS, PA`
+- Supported materials: `PLA, PETG, Flex, PVA, PC, PP, CPE, PVB and when using the Original Prusa Enclosure with
+    filtration add-on ABS, ASA, HIPS, PA`
 
 ### Power
 

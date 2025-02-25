@@ -7,7 +7,8 @@
 - Build Volume: `360×360×360 mm (14.17’’×14.17’’×14.17’’)`
 - Filament diameter: `1.75 mm`
 - Layer height: `0.05-0.30 mm`
-- Printer dimensions (without spool): `27.9 kg (single-tool) / 29.3 kg (dual-head) / 33.7 kg (five-head), 700 mm (w) × 900 mm (h) × 720 mm (d) (27.5’’×35.5’’×28.5’’) including side spoolholders and the separate top enclosure cover`
+- Printer dimensions (without spool): `27.9 kg (single-tool) / 29.3 kg (dual-head) / 33.7 kg (five-head), 700 mm (w) ×
+    900 mm (h) × 720 mm (d) (27.5’’×35.5’’×28.5’’) including side spoolholders and the separate top enclosure cover`
 
 ### Electronics
 
@@ -35,11 +36,13 @@
 
 ### Sensors
 
-- Advanced sensors: `Filament sensor, Loadcell sensor, Power panic, 4 high-precision thermistors (genuine Semitec) + fan motors RPM monitoring`
+- Advanced sensors: `Filament sensor, Loadcell sensor, Power panic, 4 high-precision thermistors (genuine Semitec) + fan
+    motors RPM monitoring`
 
 ### Print surface
 
-- Print surface: `Segmented heatbed with 16 individually controlled segments, removable magnetic steel sheets with different surface finishes`
+- Print surface: `Segmented heatbed with 16 individually controlled segments, removable magnetic steel sheets with
+    different surface finishes`
 
 ### Calibration
 
@@ -47,7 +50,8 @@
 
 ### Materials
 
-- Supported materials: `PLA, PETG, Flex, PVA, PC, PP, CPE, PVB and when using the Original Prusa Enclosure with filtration add-on ABS, ASA, HIPS, PA`
+- Supported materials: `PLA, PETG, Flex, PVA, PC, PP, CPE, PVB and when using the Original Prusa Enclosure with
+    filtration add-on ABS, ASA, HIPS, PA`
 
 ### Power
 
@@ -56,7 +60,7 @@
 
 ## Modifications & add-ons
 
-- Original Prusa XL Enclosure /w HEPA Filtration System
+- Original Prusa XL Enclosure /w Advanced Filtration System
 - Prusa Nozzle brass - 0.4 mm (2x)
 - Nextruder V6 Nozzle Adapter (2x)
 - E3D Nozzles brass - 0.4 mm
